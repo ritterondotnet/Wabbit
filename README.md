@@ -22,3 +22,7 @@ Android Wabbitemu is now available on Android phones and tablets. Take your favo
 [Google Play store](https://play.google.com/store/apps/details?id=com.Revsoft.Wabbitemu)
 
 Also available for download from [GitHub](https://github.com/LucasOne/wabbitemu/releases/download/1.0/Wabbitemu-release.apk).
+
+#Contact
+
+Contact the creators through the CodePlex site or (possibly find someone) on the [forums.](http://revsoft.tifreakware.net/phpBB3/)
