@@ -1,4 +1,4 @@
-# WabbitStudio Z80 Software Tools
+# Wabbitemu & its Related Tools
 For Windows and Mac OS X and Android
 
 ![alt tag](http://i.imgur.com/dbjtS1M.png)
