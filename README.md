@@ -21,6 +21,6 @@ now for android
 
 Android Wabbitemu is now available on Android phones and tablets. Take your favorite TI calculator emulator on the go.
 
-Google Play store
+[Google Play store](https://play.google.com/store/apps/details?id=com.Revsoft.Wabbitemu)
 
-Also available for download from CodePlex.
+Also available for download from [CodePlex](https://wabbit.codeplex.com/downloads/get/781742).
