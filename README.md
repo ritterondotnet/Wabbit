@@ -5,7 +5,9 @@ For Windows and Mac OS X and Android
 
 By Spencer Putt, Chris Shappell, and James Montelongo
 
-Downloads: https://github.com/LucasOne/Wabbit/releases
+Download [WabbitEmu](https://github.com/LucasOne/Wabbit/releases/tag/1.0)
+Download [WabbitCode](https://github.com/LucasOne/Wabbit/releases/tag/1.0.1)
+Download [SPASM](https://github.com/LucasOne/Wabbit/releases/tag/1.0.2)
 
 #Featured Software
 
