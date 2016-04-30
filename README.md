@@ -5,7 +5,7 @@ For Windows and Mac OS X and Android
 
 By Spencer Putt, Chris Shappell, and James Montelongo
 
-Downloads: https://github.com/LucasOne/wabbitemu/releases
+Downloads: https://github.com/LucasOne/Wabbit/releases
 
 #Featured Software
 
